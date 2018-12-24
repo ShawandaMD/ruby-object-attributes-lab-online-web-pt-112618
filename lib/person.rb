@@ -7,7 +7,7 @@ class Person
     @name 
   end
   
-  def job
+  def initialize(job)
   
   end
   
