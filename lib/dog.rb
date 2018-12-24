@@ -7,7 +7,4 @@ class Dog
     @name
   end 
   
-  def
-  
-  end
 end  
