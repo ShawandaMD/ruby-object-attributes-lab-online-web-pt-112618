@@ -7,4 +7,12 @@ class Person
     @name 
   end
   
+  def
+  
+  end
+  
+  def 
+    
+  end
+  
 end  
