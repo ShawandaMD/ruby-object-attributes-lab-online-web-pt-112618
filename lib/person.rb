@@ -7,7 +7,7 @@ class Person
     @name 
   end
   
-  def
+  def job
   
   end
   
